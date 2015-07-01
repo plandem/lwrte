@@ -1,6 +1,8 @@
 # lwrte
 Lightweight Rich Text Editor (RTE / WYSIWYG) for jQuery
 
+N.B.: Project is not supported anymore. I just import it from Google Code.
+
 <h2>Lightweight Rich Text Editor (RTE / WYSIWYG) for jQuery</h2>
 <img src="http://lwrte.googlecode.com/files/screenshot.jpg">
 <br>
