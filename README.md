@@ -24,7 +24,7 @@ This editor is compatible with major browsers (IE6, Firefox 2, Opera 9, Safari 3
 <p>P.S.: Tested with jQuery 1.2.6 and 1.3</p>
 <hr>
 <b>Usage:</b>
-```
+```javascript
 	$('.rte').rte({
 		css: [['default.css']],
 		controls_rte: rte_toolbar,
@@ -32,7 +32,7 @@ This editor is compatible with major browsers (IE6, Firefox 2, Opera 9, Safari 3
 	});
 ```
 OR
-```
+```javascript
 	$('.rte').rte({
 		css: [['default.css']],
 		base_url: 'http://mysite.com',
