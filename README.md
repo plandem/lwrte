@@ -3,7 +3,6 @@ Lightweight Rich Text Editor (RTE / WYSIWYG) for jQuery
 
 ## N.B.: Project is not supported anymore. I only imported it from Google Code.</b>
 
-### Lightweight Rich Text Editor (RTE / WYSIWYG) for jQuery</h2>
 ![SS](screenshot.jpg)
 
 
