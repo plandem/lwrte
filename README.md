@@ -4,8 +4,8 @@ Lightweight Rich Text Editor (RTE / WYSIWYG) for jQuery
 ## N.B.: Project is not supported anymore. I only imported it from Google Code.</b>
 
 ### Lightweight Rich Text Editor (RTE / WYSIWYG) for jQuery</h2>
-<img src="http://lwrte.googlecode.com/files/screenshot.jpg">
-<br/>
+![SS](screenshot.jpg)
+
 
 Do you need **really lightweight and unbloated Rich Text Editor (RTE / WYSIWYG) for JQuery** and ability to extend it as you want? **So you at right place.**</p>
 
